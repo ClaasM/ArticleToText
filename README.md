@@ -1,1 +1,1 @@
-Just a simple one-file Java program to process some HTML articles in a directory (and extract the text from them).
+Just a simple one-file Java program to process some HTML articles in a directory (and extract the text from them using BoilerPipe).
